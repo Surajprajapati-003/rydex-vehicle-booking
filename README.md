@@ -1,4 +1,4 @@
-<img width="2600" height="1457" alt="Screenshot 2026-06-07 011802" src="https://github.com/user-attachments/assets/f93c8b9e-1d36-4e1c-b785-c552b3a1a17a" /># 🚖 Rydex – Vehicle Booking & Partner Management Platform
+# 🚖 Rydex – Vehicle Booking & Partner Management Platform
 
 Rydex is a full-stack vehicle booking and partner onboarding platform that enables users to book vehicles, register as partners, upload verification documents, and allows administrators to manage approvals through a centralized dashboard.
 
