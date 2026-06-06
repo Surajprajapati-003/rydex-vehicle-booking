@@ -159,19 +159,39 @@ npm run dev
 Create `.env.local`
 
 ```env
-MONGODB_URI=
+MONGODB_URL=your_mongodb_connection_string
 
-AUTH_SECRET=
+AUTH_SECRET=your_auth_secret
 
-NEXTAUTH_URL=
+AUTH_GOOGLE_ID=your_google_client_id
 
-NEXTAUTH_SECRET=
+AUTH_GOOGLE_SECRET=your_google_client_secret
 
-CLOUDINARY_CLOUD_NAME=
+EMAIL=your_email
 
-CLOUDINARY_API_KEY=
+PASS=your_email_app_password
 
-CLOUDINARY_API_SECRET=
+CLOUDINARY_CLOUD_NAME=your_cloudinary_name
+
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+
+CLOUDINARY_API_SECRET=your_cloudinary_secret
+
+NEXT_PUBLIC_ZEGO_APP_ID=your_zego_app_id
+
+NEXT_PUBLIC_ZEGO_SERVER_SECRET=your_zego_secret
+
+NEXT_PUBLIC_SOCKET_SERVER_URL=your_socket_server_url
+
+NEXT_PUBLIC_GEOAPIFY_API_KEY=your_geoapify_key
+
+RAZORPAY_KEY_ID=your_razorpay_key
+
+RAZORPAY_KEY_SECRET=your_razorpay_secret
+
+NEXT_PUBLIC_RAZORPAY_KEY_ID=your_public_razorpay_key
+
+GEMINI_API_URL=your_gemini_api_url
 ```
 
 ---
